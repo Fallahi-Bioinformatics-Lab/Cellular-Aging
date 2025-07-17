@@ -1,2 +1,4 @@
 # Cellular-Aging
-Analyzing the regulatory networks during aging of different types of cells
+Analyzing the regulatory networks during the aging of different types of cells
+![images](banner.jpg)
+
